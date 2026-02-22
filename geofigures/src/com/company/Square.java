@@ -10,7 +10,7 @@ public class Square extends Figure{
     
     @Override
     public int findPerimetr() {
-        return side * 4;
+        return side * 8;
     }
     
     @Override
